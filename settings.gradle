@@ -1,0 +1,5 @@
+rootProject.name = 'gradleMultiBuild'
+
+include 'db'
+include 'service'
+include 'api'
